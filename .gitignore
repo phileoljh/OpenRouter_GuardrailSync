@@ -1,0 +1,8 @@
+.env
+models_whitelist.md
+
+# Python 快取與環境
+__pycache__/
+*.py[cod]
+.venv/
+venv/
